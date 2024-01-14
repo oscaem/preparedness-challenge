@@ -1,0 +1,1 @@
+This project contains a proof of concept outlining the potential misuse of contemporary Artificial Intelligence models to influence public perception, highlighting the need to engineer robust defenses against such threats to ensure safety of our political systems. Entry for the OpenAI Preparedness Challenge.
